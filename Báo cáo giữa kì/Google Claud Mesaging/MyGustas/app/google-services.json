@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "194316160900",
+    "firebase_url": "https://mygustas-1f045.firebaseio.com",
+    "project_id": "mygustas-1f045",
+    "storage_bucket": "mygustas-1f045.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:194316160900:android:62150f92f749d2d5e1d7d1",
+        "android_client_info": {
+          "package_name": "com.example.mygustas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "194316160900-0gnisad3lels5rbt7k0om195qgn4uhd6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mygustas",
+            "certificate_hash": "a455b02496675f93f55ce33aa813188484b07046"
+          }
+        },
+        {
+          "client_id": "194316160900-18gg70kqf88ibd80o939oqrlhge6fl9a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8ir4CU8oaAq0sWnMRMnUndUtHtsKbZeE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "194316160900-18gg70kqf88ibd80o939oqrlhge6fl9a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
